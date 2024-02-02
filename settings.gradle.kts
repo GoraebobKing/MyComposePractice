@@ -12,5 +12,8 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "MyComposePractice"
-include ':app'
+include(":app")
+include(":domain")
+include(":data")

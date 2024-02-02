@@ -1,0 +1,1 @@
+/Users/kwonhyeok/Desktop/Work/Android/MyComposePractice/buildSrc/build/classes/kotlin/main/ConfigData.class:/Users/kwonhyeok/Desktop/Work/Android/MyComposePractice/buildSrc/build/classes/kotlin/main/Libraries.class:/Users/kwonhyeok/Desktop/Work/Android/MyComposePractice/buildSrc/build/classes/kotlin/main/Version.class
